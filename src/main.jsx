@@ -5,5 +5,5 @@ import './index.css'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    <h1>To-do_frontEnd</h1>
-  </StrictMode>,
+  </StrictMode>
 )
